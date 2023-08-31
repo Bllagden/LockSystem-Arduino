@@ -5,7 +5,8 @@ LED notifications. It is automatically closed thanks to the reed switch, which
 > is activated by the counter bar of the lock with a magnet. The case and some
 > components of the system were printed on a
 3D-printer. Prototype:**
-![](documentation_images/main.png)
+> 
+> ![](documentation_images/main.png)
 
 ## Components:
 
