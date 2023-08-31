@@ -1,0 +1,13 @@
+Т.к. это прототип, то для упрощения печати детали моделировались не полноценными,
+а частичными для последующей их склейки. Благодаря такому подходу выше скорость печати
+и меньше поддержек.
+
+Печать производилась пластиками PLA и PETG (болты).
+
+
+
+Because this is a prototype, then to simplify printing, the parts were modeled incomplete,
+and partial for their subsequent gluing. Thanks to this approach, printing speed is higher
+and less support.
+
+Printing was done with PLA and PETG (bolts).
